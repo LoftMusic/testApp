@@ -1,7 +1,7 @@
 {
   "name": "Emoji Flasher",
   "short_name": "Emoji",
-  "start_url": "/",
+  "start_url": "/testApp/",
   "display": "standalone",
   "background_color": "#f0f0f0",
   "theme_color": "#000000",
