@@ -1,9 +1,11 @@
 const CACHE_NAME = 'emoji-flasher-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/styles.css',
-  '/app.js'
+  '/testApp/', // Adjusted for the repo name
+  '/testApp/index.html',
+  '/testApp/styles.css',
+  '/testApp/app.js',
+  '/testApp/manifest.json',
+  '/testApp/icon-192x192.png'
 ];
 
 self.addEventListener('install', (event) => {
